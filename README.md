@@ -20,4 +20,5 @@ npm run build --report
 
 
 ## 效果演示
+# 定位和单车的排放位置
 ![Image text](https://github.com/ZBearLee/BicycleSharing/blob/master/screenshot/img1.png)
