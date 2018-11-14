@@ -2,6 +2,9 @@
 
 > A  project is based on vuejs+nodejs+mongodb
 
+## 技术栈
+vue+axios+es6+elementui+museui+sass+flexible+localstorage+node(express)+mongodb
+
 ## 项目运行
 
 ``` bash
