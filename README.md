@@ -1,8 +1,8 @@
 # bicycle-sharing
 
-> A Vue.js project
+> A  project based on vuejs+nodejs+mongodb
 
-## Build Setup
+## 项目运行
 
 ``` bash
 # install dependencies
