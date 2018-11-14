@@ -24,7 +24,10 @@ npm run build --report
 ![Image text](https://github.com/ZBearLee/BicycleSharing/blob/master/screenshot/img1.png)
 
 ###### 个人中心
+![Image text](https://github.com/ZBearLee/BicycleSharing/blob/master/screenshot/img2.png)
 
 ###### 活动内容
+![Image text](https://github.com/ZBearLee/BicycleSharing/blob/master/screenshot/img3.png)
 
 ###### 后台管理增删查改
+![Image text](https://github.com/ZBearLee/BicycleSharing/blob/master/screenshot/img4.png)
