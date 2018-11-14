@@ -20,4 +20,4 @@ npm run build --report
 
 
 ## 效果演示
-![Image text](https://raw.github.com/ZBearLee/master/screenshot/img1.png)
+![Image text](https://github.com/ZBearLee/BicycleSharing/blob/master/screenshot/img1.png)
